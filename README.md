@@ -43,13 +43,13 @@ User Prompt
 
 **INSTALLATION:**
 git clone https://github.com/**yourusername**/Podgenie.git
+
 cd Podgenie
 
 **How to Run:**
-# run the Streamlit app
+run the Streamlit app:
 streamlit run Podgenie.py
 
-**Demo:**
 
 
 
